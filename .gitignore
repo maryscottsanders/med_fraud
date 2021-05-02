@@ -1,0 +1,15 @@
+# Everything to do with virtual environment
+/env
+
+# Anything in a the "data" directory
+data/**
+!data/.gitkeep
+
+# Anything that might contain sensitive data
+*.csv
+*.xls
+*.xlsx
+*.pkl
+*.zip
+*.ipynb
+*.png

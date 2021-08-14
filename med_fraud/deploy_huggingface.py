@@ -1,5 +1,6 @@
 # Using a model from the model hub is very version version specific.
-# Make sure you have sagemaker version sagemaker==2.48.0 Earlier versions won't work and 2.53 doesn't work.
+# Make sure you have sagemaker version sagemaker==2.48.0. Earlier versions will not work and 2.53 doesn't work.
+# Seems to be an issue with the model location.
 
 
 # Resources
